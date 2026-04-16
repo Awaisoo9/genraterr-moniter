@@ -7,8 +7,7 @@
 #include <SPI.h>
 #include <SD.h>
 
-String GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwZ3yZKRkC-kJ5Jdbp1vLC9CEKXDjraE-szoClk-IDfJq2r5dXwD_-EN3nGH8yWVDqe/exec";
-
+String GOOGLE_SCRIPT_URL =
 // ── Hardware Pins ─────────────────────────────────────────────────────────────
 const int relayPin        = 27;
 const int statusLedPin    = 2;
